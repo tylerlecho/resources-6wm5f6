@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tylerlecho.github.io/resources-6wm5f6/sitemap.xml
